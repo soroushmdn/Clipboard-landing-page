@@ -1,4 +1,7 @@
-# Clipboard-landing-page
-Clipboard landing page - Frontend mentor challenge
+# Clipboard landing page
+##  [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
 
-![_D__Web%20Development__my%20project_Main%20projects_Frontend%20mentor%20-%20Clipboard%20landing%20page_index html](https://user-images.githubusercontent.com/95019708/168857462-004cbcb9-6e02-445f-8a94-a10bcf3132e1.png)
+### Responsive Landing Page Using HTML CSS & JavaScript.
+
+- Developed first for Desktop then for Mobile devices.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
